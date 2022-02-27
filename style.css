@@ -1,0 +1,44 @@
+.body{
+    background-color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn{
+    border-radius: 10px;
+    width: 100px;
+    height: 80px; 
+    background-color: darkgoldenrod;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30;
+    glyph-orientation-vertical:user;
+    color: red;
+}
+.ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size:x-large;
+}
+.h1{
+    color: red;
+}
+.phone{
+perspective-origin: 100px;
+color: cyan;
+}
+.logo{
+    border-radius: 20%;
+}
+.blockquote{
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    align-self: center;
+    font-size: larger;
+}
+.photo{
+size: 20px;
+align-self: left;
+}
+.photo1{
+    size: 25px;
+    align-self: right;
+}
